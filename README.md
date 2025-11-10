@@ -10,11 +10,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
 
-  <!-- Gmail Badge -->
-  <a href="mailto:daserushikesh@gmail.com">
+  <!-- Gmail Badge (opens Gmail compose in new tab) -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=daserushikesh@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
   </a>
-
-  <br />
-  <sub>📋 Copy email: <b>daserushikesh@gmail.com</b></sub>
 </div>
