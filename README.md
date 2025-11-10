@@ -14,4 +14,7 @@
   <a href="mailto:daserushikesh@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
   </a>
+
+  <br />
+  <sub>📋 Copy email: <b>daserushikesh@gmail.com</b></sub>
 </div>
